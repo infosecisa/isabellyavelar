@@ -20,6 +20,7 @@
   
   <hr>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellyavelar&show_icons=true&theme=radical)](https://github.com/isabellyavelar/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellyavelar&show_icons=true&theme=radical)](https://github.com/isabellyavelar/github-readme-stats)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
+  
   
 
